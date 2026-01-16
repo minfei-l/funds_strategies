@@ -1,0 +1,22 @@
+Category,Code,Volatility (%),MDD (%),Sharpe Ratio,n_years
+Mutual Fund,040001,19.47,-18.42,0.25,13
+Mutual Fund,050001,17.42,-15.48,0.5,13
+Mutual Fund,070002,18.78,-16.64,0.73,13
+Mutual Fund,110011,22.89,-18.96,0.6,13
+Mutual Fund,161005,21.91,-19.43,0.72,13
+Mutual Fund,163402,17.46,-14.58,0.72,13
+Mutual Fund,202002,18.34,-17.31,0.54,13
+Mutual Fund,260116,21.84,-19.33,0.97,13
+Mutual Fund,270006,23.31,-21.37,0.3,13
+Mutual Fund,377010,22.68,-21.58,0.5,13
+Shanghai Composite,Index,18.36,-17.05,0.4,13
+Strategy Fund,040001,21.2,-20.78,0.28,13
+Strategy Fund,050001,21.1,-20.52,0.3,13
+Strategy Fund,070002,23.23,-22.39,0.36,13
+Strategy Fund,110011,21.87,-20.09,0.53,13
+Strategy Fund,161005,21.46,-20.74,0.42,13
+Strategy Fund,163402,22.31,-21.13,0.38,13
+Strategy Fund,202002,21.12,-19.63,0.43,13
+Strategy Fund,260116,21.1,-20.65,0.32,13
+Strategy Fund,270006,21.54,-19.97,0.34,13
+Strategy Fund,377010,23.32,-22.43,0.24,13
